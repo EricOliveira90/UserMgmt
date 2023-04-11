@@ -4,7 +4,7 @@
   "description": "Microservice for User Authentication and Authorization, User Profile Management, Access Control, and Security Management",
   "main": "dist/main/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "keywords": [
     "User Management",
@@ -28,5 +28,9 @@
     "JWT"
   ],
   "author": "Eric Oliveira",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "typescript": "^5.0.4"
+  }
 }
