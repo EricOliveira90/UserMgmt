@@ -1,0 +1,32 @@
+{
+  "name": "user-mgmt",
+  "version": "0.0.1",
+  "description": "Microservice for User Authentication and Authorization, User Profile Management, Access Control, and Security Management",
+  "main": "dist/main/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "User Management",
+    "Microservice",
+    "Event-Driven Architecture",
+    "Authentication",
+    "Authorization",
+    "Access Control",
+    "Security",
+    "User Registration",
+    "User Authentication",
+    "User Profile Management",
+    "Token Management",
+    "User Access Control",
+    "Audit Logging",
+    "Role-Based Access Control",
+    "Permission-Based Access Control",
+    "Multi-Factor Authentication",
+    "OAuth2",
+    "OpenID Connect",
+    "JWT"
+  ],
+  "author": "Eric Oliveira",
+  "license": "ISC"
+}

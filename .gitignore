@@ -1,0 +1,10 @@
+# node modules
+node_modules
+
+# unwanted files
+dist
+coverage
+pilot.ts
+
+# secret files
+.env
