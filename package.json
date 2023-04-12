@@ -1,6 +1,6 @@
 {
   "name": "user-mgmt",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Microservice for User Authentication and Authorization, User Profile Management, Access Control, and Security Management",
   "main": "dist/main/index.js",
   "scripts": {
