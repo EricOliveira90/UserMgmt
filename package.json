@@ -4,7 +4,7 @@
   "description": "Microservice for User Authentication and Authorization, User Profile Management, Access Control, and Security Management",
   "main": "dist/main/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "rimraf ./dist/ && tsc"
   },
   "keywords": [
     "User Management",
@@ -31,6 +31,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.15.11",
+    "rimraf": "^5.0.0",
     "typescript": "^5.0.4"
   }
 }
